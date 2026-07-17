@@ -67,9 +67,3 @@ Activate the Streamlit environment and launch the web application on port 8501:
 source ~/streamlit-env/bin/activate
 streamlit run /dashboard/main_app.py --server.port 8501 --server.address 0.0.0.0
 ```
-
-## Contributors
-*   **Kameron Arceneaux** - Data cleaning pipelines and CVS metric engineering.
-*   **Hammaad Alam** - Data joining logic and Bucketing analysis.
-*   **Marcus Reese** - Azure VM infrastructure configuration and web scraping. 
-*(Project built for CSC 4740 – Big Data Technology)*
